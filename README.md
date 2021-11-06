@@ -1,4 +1,4 @@
-# todo-list
+# todo-list for SCA-CLOUD-PROJECT
 Created a simple to do list app. You can 
 - add an item to the list
 - Mark an item as "done"
